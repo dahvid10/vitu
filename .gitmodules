@@ -1,0 +1,9 @@
+[submodule "web_ai/nearBuy"]
+	path = web_ai/nearBuy
+	url = https://github.com/dahvid10/NearBuy.git
+[submodule "web_ai/timeCraft"]
+	path = web_ai/timeCraft
+	url = https://github.com/dahvid10/Time-Craft.git
+[submodule "web_ai/finSight"]
+	path = web_ai/finSight
+	url = https://github.com/dahvid10/FinSight-AI.git
