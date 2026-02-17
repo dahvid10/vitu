@@ -1,2 +1,0 @@
-tx
--DCATKIN_DEVEL_PREFIX=/media/sf_ros/Ubuntu_18_transmit_imgs_cpp/devel -DCMAKE_INSTALL_PREFIX=/media/sf_ros/Ubuntu_18_transmit_imgs_cpp/install -G Unix Makefiles
